@@ -1,3 +1,7 @@
+# Version del Markdown
+
+## Versión actual V1.2.2
+
 # CABECERAS
 
 # Cabecera H1
@@ -12,7 +16,7 @@
 
 ###### Cabecera 6
 
-# UNDERLINES
+# Underlines
 
 ## Underline 1
 
