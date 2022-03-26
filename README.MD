@@ -12,7 +12,7 @@
 
 ###### Cabecera 6
 
-# UUNDERLINES
+# UNDERLINES
 
 ## Underline 1
 
